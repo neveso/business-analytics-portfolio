@@ -4,20 +4,12 @@ Welcome to my Business Analytics portfolio!  As a data visualization enthusiast 
 Repository structure:
 <pre>
 business-analytics-portfolio/
-├── Python/
-│   └── python_notebook.ipynb
-├── EDA/
-│   ├── eda_notebook.ipynb
-│   ├── eda_powerbi.pbix
-│   └── eda_report.pdf
-├── ML/
-│   ├── ml_notebook.ipynb
-│   ├── ml_powerbi.pbix
-│   └── ml_report.pdf
-├── DL/
-│   └── dl_notebook.ipynb
-└── NLP/
-    └── nlp_notebook.ipynb
+├── python_notebook.ipynb    # grade: 19,30/20
+├── eda_mml_notebook.ipynb   # grade: EDA 18,40/20; MML 18/20.
+├── eda_mmlpowerbi.pbix  
+├── eda_mml_report.pdf
+├── dl_notebook.ipynb        # grade: 20/20
+└── nlp_notebook.ipynb       # grade: 20/20
 </pre>
 
 <div align="left">
@@ -25,7 +17,7 @@ business-analytics-portfolio/
     <thead>
       <tr>
         <th>Course</th>
-        <th>Grade</th>
+        <th>Final Grade</th>
       </tr>
     </thead>
     <tbody>
