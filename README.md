@@ -4,26 +4,35 @@
 
 <p>
   I'm a Business Analyst and data visualization enthusiast. I completed a postgraduate degree in Business Analytics at Porto Executive Academy, and this repository gathers the notebooks, reports and presentations from that journey.
-  Explore the sections below to see my work in Python, EDA, ML, DL, NLP, Time series forecasting and Cloud computing.
+  Explore the sections below to see my work in Python, EDA, ML, DL, NLP, time series forecasting and cloud computing.
 </p>
 
-<h2>My Learning Journey: Notebooks in Chronological Order</h2>
-  <pre>
+<h2>📁 Repository Structure</h2>
+  <blockquote>
+    Whether you're a recruiter, collaborator or fellow data enthusiast, explore the notebooks and reports to see how I use charts, dashboards and annotated visuals.
+  </blockquote>
+<pre>
 business-analytics-portfolio/
-├── python_notebook.ipynb                    # grade: 19.30/20
-├── eda_mml_notebook.ipynb                   # grade: EDA 18.40/20; MML 18.00/20
-|   eda_mml_powerbi.pbix  
-|   eda_mml_report.pdf
-├── dl_notebook.ipynb                        # grade: 20/20
-├── nlp_notebook.ipynb                       # grade: 20/20
-├── time_series_forecasting_notebook.ipynb   # grade: 19.70/20
-├── cloud_computing_main.ipynb               # grade: 19.25/20
-|   cloud_computing_streamlit_app.ipynb    
-|   cloud_computing_presentation.pdf         
-└── portfolio_data_visualization.pdf
-  </pre>
+├── 01-python-cli/
+│   └── python_notebook.ipynb                    # grade: 19.30/20
+├── 02-ade-mml-bank-data/
+│   ├── ade_mml_notebook.ipynb                   # grade: EDA 18.40/20; MML 18.00/20
+│   ├── ade_mml_powerbi.pbix
+│   └── ade_mml_report.pdf
+├── 03-deep-learning-cv/
+│   └── DLCV_notebook.ipynb                      # grade: 20/20
+├── 04-nlp-airline-sentiment/
+│   └── nlp_notebook.ipynb                       # grade: 20/20
+├── 05-time-series-forecasting/
+│   └── time_series_forecasting_notebook.ipynb   # grade: 19.70/20
+├── 06-cloud-computing-olx/
+│   ├── cloud_computing_main.ipynb               # grade: 19.25/20
+│   ├── cloud_computing_streamlit_app.py
+│   └── cloud_computing_presentation.pdf
+└── 0_Portfolio_Data_Visualization.pdf
+</pre>
 
- <section id="assignments">
+<section id="assignments">
   <h2>📝 Notebooks &amp; College Assignments</h2>
   <ul>
     <li>
@@ -35,24 +44,25 @@ business-analytics-portfolio/
       </ul>
       <p>
         <strong>Notebook:</strong>
-        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/01-python-cli/python_notebook.ipynb" target="_blank" rel="noopener"><code>python_notebook.ipynb</code></a><br>
+        <a href="01-python-cli/python_notebook.ipynb"><code>python_notebook.ipynb</code></a><br>
         <strong>Final Grade:</strong> 19.30/20
       </p>
     </li>
- <li>
+    <li>
       <h3>📊 EDA &amp; ML Projects <small>(2025)</small></h3>
       <p>Bank Marketing (bank_data) | Python, pandas, scikit-learn, XGBoost, LightGBM</p>
       <ul>
         <li><strong>Part 1: Exploratory Data Analysis (EDA)</strong> – data collection, summary statistics, handling missing values, outliers, correlations, multivariate analysis, feature engineering, clustering.</li>
         <li><strong>Part 2: Machine Learning Models (MML)</strong> – implementation and evaluation of classification models (Logistic Regression, KNN, SVM, Decision Tree, Random Forest, Gradient Boosting, XGBoost, LightGBM) to predict term deposit subscription.</li>
       </ul>
-       <p>
-        <strong>Links:</strong>
-        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/02-ade-mml-bank-data/ade_mml_notebook.ipynb" target="_blank" rel="noopener"><code>ade_notebook.ipynb</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/02-ade-mml-bank-data/ade_mml_powerbi.pbix" target="_blank" rel="noopener"><code>ade_mml_powerbi.pbix</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/02-ade-mml-bank-data/ade_mml_report.pdf" target="_blank" rel="noopener"><code>ade_mml_report.pdf</code></a> <br>
-        <strong>Final Grade:</strong> EDA 18.40/20 and MML 18.00/20
-      </p>   
- 
- </li>
+      <p>
+        <strong>Files:</strong>
+        <a href="02-ade-mml-bank-data/ade_mml_notebook.ipynb"><code>ade_mml_notebook.ipynb</code></a>
+        <a href="02-ade-mml-bank-data/ade_mml_powerbi.pbix"><code>ade_mml_powerbi.pbix</code></a>
+        <a href="02-ade-mml-bank-data/ade_mml_report.pdf"><code>ade_mml_report.pdf</code></a><br>
+        <strong>Final Grades:</strong> EDA 18.40/20 and MML 18.00/20
+      </p>
+    </li>
     <li>
       <h3>🤖 DL &amp; Computer Vision <small>(2025)</small></h3>
       <p>Cats vs. Dogs Image Classifier | Python, TensorFlow/Keras</p>
@@ -62,21 +72,20 @@ business-analytics-portfolio/
       </ul>
       <p>
         <strong>Notebook:</strong>
-        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/03-deep-learning-cv/DLCV_notebook.ipynb" target="_blank" rel="noopener"><code>DLCV_notebook.ipynb</code></a><br>
+        <a href="03-deep-learning-cv/DLCV_notebook.ipynb"><code>DLCV_notebook.ipynb</code></a><br>
         <strong>Final Grade:</strong> 20/20
       </p>
     </li>
     <li>
       <h3>💬 NLP Project <small>(2025)</small></h3>
-      <p>NLP Sentiment Analysis | Python, NLTK</p>
-      <p>NLP Sentiment Analysis using <a href="https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment/data" target="_blank" rel="noopener">Twitter US Airline Sentiment</a> dataset</p>
+      <p><a href="https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment/data" target="_blank" rel="noopener">Twitter US Airline Sentiment</a> | Python, NLTK</p>
       <ul>
         <li>Cleaned and prepared tweet data, with sentiment-distribution visualizations and feature engineering.</li>
         <li>Built and evaluated classification models to predict tweet sentiment.</li>
       </ul>
       <p>
         <strong>Notebook:</strong>
-        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/04-nlp-airline-sentiment/nlp_notebook.ipynb" target="_blank" rel="noopener"><code>nlp_notebook.ipynb</code></a><br>
+        <a href="04-nlp-airline-sentiment/nlp_notebook.ipynb"><code>nlp_notebook.ipynb</code></a><br>
         <strong>Final Grade:</strong> 20/20
       </p>
     </li>
@@ -90,21 +99,23 @@ business-analytics-portfolio/
       </ul>
       <p>
         <strong>Notebook:</strong>
-        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/05-time-series-forecasting/time_series_forecasting_notebook.ipynb" target="_blank" rel="noopener"><code>time_series_forecasting_notebook.ipynb</code></a><br>
+        <a href="05-time-series-forecasting/time_series_forecasting_notebook.ipynb"><code>time_series_forecasting_notebook.ipynb</code></a><br>
         <strong>Final Grade:</strong> 19.70/20
       </p>
     </li>
-        <li>
+    <li>
       <h3>☁️ Cloud Computing <small>(2025)</small></h3>
       <p>OLX Smartphone Price Estimator | Python, AWS (S3, SageMaker Pipelines, SageMaker Endpoint), XGBoost, Streamlit</p>
       <ul>
-        <li>Built an end-to-end automated ML pipeline on AWS: raw OLX smartphone listings stored in S3, then SageMaker Pipelines for feature engineering, XGBoost training, evaluation, model registration and deployment to a real-time SageMaker endpoint (<a href="https://github.com/neveso/business-analytics-portfolio/blob/main/06-cloud-computing-olx/cloud_computing_main.ipynb" target="_blank" rel="noopener"><code>cloud_computing_main.ipynb</code></a>) </li>
-        <li>Developed a Streamlit app that lets OLX users estimate their phone's price in real time, with a "How Does It Work?" section, a topic-based menu, helpful tips, a visual summary of the main features and an informative sidebar (<a href="https://github.com/neveso/business-analytics-portfolio/blob/main/06-cloud-computing-olx/cloud_computing_streamlit_app.py" target="_blank" rel="noopener"><code>cloud_computing_streamlit_app.py</code></a>) </li>
-        <li><strong>Result:</strong> the model reached 93% accuracy. See the <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/06-cloud-computing-olx/cloud_computing_presentation.pdf" target="_blank" rel="noopener"><code>cloud_computing_presentation.pdf</code></a> or <a href="https://canva.link/ed121ydgfhvt6xg" target="_blank" rel="noopener"> online presentation</a> and the <a href="https://youtu.be/3sJ4pJOlqEk" target="_blank" rel="noopener">demo here</a>.</li>
+        <li>Built an end-to-end automated ML pipeline on AWS: raw OLX smartphone listings stored in S3, then SageMaker Pipelines for feature engineering, XGBoost training, evaluation, model registration and deployment to a real-time SageMaker endpoint.</li>
+        <li>Developed a Streamlit app that lets OLX users estimate their phone's price in real time, with a "How Does It Work?" section, a topic-based menu, helpful tips, a visual summary of the main features and an informative sidebar.</li>
+        <li><strong>Result:</strong> the model reached 93% accuracy. See the <a href="https://canva.link/ed121ydgfhvt6xg" target="_blank" rel="noopener">online presentation</a> and the <a href="https://youtu.be/3sJ4pJOlqEk" target="_blank" rel="noopener">demo video</a>.</li>
       </ul>
       <p>
-        <strong>Links:</strong>
-        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/06-cloud-computing-olx/cloud_computing_main.ipynb" target="_blank" rel="noopener"><code>cloud_computing_main.ipynb</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/06-cloud-computing-olx/cloud_computing_streamlit_app.py" target="_blank" rel="noopener"><code>cloud_computing_streamlit_app.py</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/06-cloud-computing-olx/cloud_computing_presentation.pdf" target="_blank" rel="noopener"><code>cloud_computing_presentation.pdf</code></a> <br>
+        <strong>Files:</strong>
+        <a href="06-cloud-computing-olx/cloud_computing_main.ipynb"><code>cloud_computing_main.ipynb</code></a>
+        <a href="06-cloud-computing-olx/cloud_computing_streamlit_app.py"><code>cloud_computing_streamlit_app.py</code></a>
+        <a href="06-cloud-computing-olx/cloud_computing_presentation.pdf"><code>cloud_computing_presentation.pdf</code></a><br>
         <strong>Final Grade:</strong> 19.25/20
       </p>
     </li>
@@ -116,19 +127,18 @@ business-analytics-portfolio/
   </p>
 </section>
 
-
 <section id="portfolio">
   <h2>📊 Portfolio: Data Visualization</h2>
-
+  <blockquote>
+    A curated collection of projects that highlight my journey through key Business Analytics courses, blending technical skills with storytelling and visual design.
+  </blockquote>
+  
   <p>
     <a href="0_Portfolio_Data_Visualization.pdf" target="_blank" rel="noopener">
       <img src="https://img.shields.io/badge/📄_Download-Portfolio_PDF-2563eb?style=for-the-badge" alt="Download Portfolio PDF">
     </a>
   </p>
 
-  <p>
-    A curated collection of projects that turn raw data into clear, engaging stories, guiding decisions and sparking discoveries.
-  </p>
 
   <table>
     <thead>
@@ -164,8 +174,5 @@ business-analytics-portfolio/
       </tr>
     </tbody>
   </table>
-
-  <blockquote>
-    Whether you're a recruiter, collaborator or fellow data enthusiast, explore the notebooks and reports to see how I use charts, dashboards and annotated visuals.
-  </blockquote>
+  
 </section>
