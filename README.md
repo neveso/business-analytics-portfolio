@@ -11,7 +11,7 @@
 business-analytics-portfolio/
 ├── python_notebook.ipynb                    # grade: 19.30/20
 ├── eda_mml_notebook.ipynb                   # grade: EDA 18.40/20; MML 18.00/20
-|   eda_mmlpowerbi.pbix  
+|   eda_mml_powerbi.pbix  
 |   eda_mml_report.pdf
 ├── dl_notebook.ipynb                        # grade: 20/20
 ├── nlp_notebook.ipynb                       # grade: 20/20
