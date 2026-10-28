@@ -9,12 +9,14 @@
 <h2>My Learning Journey: Notebooks in Chronological Order</h2>
   <pre>
 business-analytics-portfolio/
-├── python_notebook.ipynb                # grade: 19.30/20
-├── eda_mml_notebook.ipynb               # grade: EDA 18.40/20; MML 18.00/20
+├── python_notebook.ipynb                    # grade: 19.30/20
+├── eda_mml_notebook.ipynb                   # grade: EDA 18.40/20; MML 18.00/20
 ├── eda_mmlpowerbi.pbix  
 ├── eda_mml_report.pdf
-├── dl_notebook.ipynb                    # grade: 20/20
-├── nlp_notebook.ipynb                   # grade: 20/20
+├── dl_notebook.ipynb                        # grade: 20/20
+├── nlp_notebook.ipynb                       # grade: 20/20
+├── time_series_forecasting_notebook.ipynb   # grade: 19.70/20
+├── cloud_computing                          # grade: 19.25/20
 └── portfolio_data_visualization.pdf
   </pre>
 
