@@ -2,9 +2,10 @@
 
 <p>Welcome to my Business Analytics portfolio! 👋</p>
 
-<p>As a data visualization enthusiast and postgraduate student in Business Analytics at Porto Executive Academy, I share here the notebooks and reports from each course I’m taking.</p>
-
-<p>I invite you to explore the folders below to see my work on Python, EDA, ML, DL and NLP.</p>
+<p>
+  I'm a Business Analyst and data visualization enthusiast. I completed a postgraduate degree in Business Analytics at Porto Executive Academy, and this repository gathers the notebooks, reports and presentations from that journey.
+  Explore the sections below to see my work in Python, EDA, ML, DL, NLP, Time series forecasting and Cloud computing.
+</p>
 
 <h2>My Learning Journey: Notebooks in Chronological Order</h2>
   <pre>
