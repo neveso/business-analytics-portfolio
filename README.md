@@ -109,7 +109,11 @@ business-analytics-portfolio/
         <li>Compared baselines (Naive, Seasonal Naive, Historic Average, Random Walk with Drift), statistical models (AutoARIMA, AutoETS), machine learning (LightGBM, XGBoost) and neural networks (N-BEATS, N-HiTS), with hyperparameter grid search and exogenous price/SNAP regressors.</li>
         <li><strong>Result:</strong> N-BEATS with regressors achieved the lowest MAE (1.25, 11% below the best baseline), with the top models within ~5% of each other. I used MAE/RMSE instead of MAPE because about 52% of sales were zeros.</li>
       </ul>
-      <p><strong>Final Grade:</strong> 19.70/20</p>
+      <p>
+        <strong>Notebook:</strong>
+        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/time_series_forecasting_notebook.ipynb" target="_blank" rel="noopener"><code>time_series_forecasting_notebook.ipynb</code></a><br>
+        <strong>Final Grade:</strong> 19.70/20
+      </p>
     </li>
         <li>
       <h3>☁️ Cloud Computing <small>(2025)</small></h3>
