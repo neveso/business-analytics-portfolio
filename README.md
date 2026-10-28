@@ -73,7 +73,11 @@ business-analytics-portfolio/
         <li>Developed a command-line application to manage student data at an educational institution, driven by user inputs.</li>
         <li>Built as the assignment for Programming Fundamentals in Python.</li>
       </ul>
-      <p><strong>Final Grade:</strong> 19.30/20</p>
+      <p>
+        <strong>Notebook:</strong>
+        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/python_notebook.ipynb" target="_blank" rel="noopener"><code>python_notebook.ipynb</code></a><br>
+        <strong>Final Grade:</strong> 19.30/20
+      </p>
     </li>
  <li>
       <h3>📊 EDA &amp; ML Projects <small>(2025)</small></h3>
@@ -82,8 +86,13 @@ business-analytics-portfolio/
         <li><strong>Part 1: Exploratory Data Analysis (EDA)</strong> – data collection, summary statistics, handling missing values, outliers, correlations, multivariate analysis, feature engineering, clustering.</li>
         <li><strong>Part 2: Machine Learning Models (MML)</strong> – implementation and evaluation of classification models (Logistic Regression, KNN, SVM, Decision Tree, Random Forest, Gradient Boosting, XGBoost, LightGBM) to predict term deposit subscription.</li>
       </ul>
-      <p><strong>Final Grades:</strong> EDA 18.40 / MML 18.00</p>
-    </li>
+       <p>
+        <strong>Links:</strong>
+        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/ade_mml_notebook.ipynb" target="_blank" rel="noopener"><code>ade_notebook.ipynb</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/ade_mml_powerbi.pbix" target="_blank" rel="noopener"><code>ade_mml_powerbi.pbix</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/ade_mml_report.pdf" target="_blank" rel="noopener"><code>ade_mml_report.pdf</code></a> <br>
+        <strong>Final Grade:</strong> EDA 18.40/20 and MML 18.00/20
+      </p>   
+ 
+ </li>
     <li>
       <h3>🤖 DL &amp; Computer Vision <small>(2025)</small></h3>
       <p>Cats vs. Dogs Image Classifier | Python, TensorFlow/Keras</p>
