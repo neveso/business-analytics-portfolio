@@ -66,38 +66,50 @@ business-analytics-portfolio/
   <ul>
     <li>
       <h3>🐍 Python <small>(2024)</small></h3>
-      <p>
-        <strong>Assignment for:</strong> Programming Fundamentals in Python<br>
-        <strong>Purpose:</strong> Develop a CLI application to manage student data at an educational institution, based on user inputs.<br>
-        <strong>Final Grade:</strong> 19.30/20
-      </p>
-    </li>
-    <li>
-      <h3>📊 EDA &amp; ML Projects <small>(2025)</small></h3>
-      <p>This folder contains work on the <strong>bank_data</strong> dataset:</p>
+      <p>Student Management CLI Application | Python</p>
       <ul>
-        <li>
-          <strong>Part 1: Exploratory Data Analysis (EDA)</strong> – data collection, summary statistics, handling missing values, outliers, correlations, multivariate analysis, feature engineering, clustering.
-        </li>
-        <li>
-          <strong>Part 2: Machine Learning Models (MML)</strong> – implementation and evaluation of classification models (Logistic Regression, KNN, SVM, Decision Tree, Random Forest, Gradient Boosting, XGBoost, LightGBM) to predict term deposit subscription.
-        </li>
+        <li>Developed a command-line application to manage student data at an educational institution, driven by user inputs.</li>
+        <li>Built as the assignment for Programming Fundamentals in Python.</li>
+      </ul>
+      <p><strong>Final Grade:</strong> 19.30/20</p>
+    </li>
+ <li>
+      <h3>📊 EDA &amp; ML Projects <small>(2025)</small></h3>
+      <p>Bank Marketing (bank_data) | Python, pandas, scikit-learn, XGBoost, LightGBM</p>
+      <ul>
+        <li><strong>Part 1: Exploratory Data Analysis (EDA)</strong> – data collection, summary statistics, handling missing values, outliers, correlations, multivariate analysis, feature engineering, clustering.</li>
+        <li><strong>Part 2: Machine Learning Models (MML)</strong> – implementation and evaluation of classification models (Logistic Regression, KNN, SVM, Decision Tree, Random Forest, Gradient Boosting, XGBoost, LightGBM) to predict term deposit subscription.</li>
       </ul>
       <p><strong>Final Grades:</strong> EDA 18.40 / MML 18.00</p>
     </li>
     <li>
       <h3>🤖 DL &amp; Computer Vision <small>(2025)</small></h3>
-      <p>
-        Binary image classifier for cats vs. dogs using convolutional neural networks. Construction, training and evaluation of multiple architectures to identify the most accurate model.<br>
-        <strong>Final Grade:</strong> 20/20
-      </p>
+      <p>Cats vs. Dogs Image Classifier | Python, TensorFlow/Keras</p>
+      <ul>
+        <li>Built a binary image classifier for cats vs. dogs using convolutional neural networks.</li>
+        <li>Constructed, trained and evaluated multiple architectures to identify the most accurate model.</li>
+      </ul>
+      <p><strong>Final Grade:</strong> 20/20</p>
     </li>
     <li>
       <h3>💬 NLP Project <small>(2025)</small></h3>
-      <p>
-        Based on the <a href="https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment/data" target="_blank" rel="noopener">Twitter US Airline Sentiment dataset</a>. Includes data cleaning, sentiment-distribution visualizations, feature engineering and classification models to predict tweet sentiment.<br>
-        <strong>Final Grade:</strong> 20/20
-      </p>
+      <p>NLP Sentiment Analysis | Python, NLTK</p>
+      <p>NLP Sentiment Analysis using <a href="https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment/data" target="_blank" rel="noopener">Twitter US Airline Sentiment</a> dataset</p>
+      <ul>
+        <li>Cleaned and prepared tweet data, with sentiment-distribution visualizations and feature engineering.</li>
+        <li>Built and evaluated classification models to predict tweet sentiment.</li>
+      </ul>
+      <p><strong>Final Grade:</strong> 20/20</p> 
+    </li>
+    <li>
+      <h3>🕑 Time Series Forecasting <small>(2025)</small></h3>
+      <p>Retail Demand Forecasting (M5 Dataset) | Python, statsforecast, mlforecast, NeuralForecast, statsmodels</p>
+      <ul>
+        <li>Forecasted 28-day sales for 216 intermittent product series (FOODS_1, store CA_1) from the M5 dataset, with EDA, seasonal decomposition and ADF stationarity testing.</li>
+        <li>Compared baselines (Naive, Seasonal Naive, Historic Average, Random Walk with Drift), statistical models (AutoARIMA, AutoETS), machine learning (LightGBM, XGBoost) and neural networks (N-BEATS, N-HiTS), with hyperparameter grid search and exogenous price/SNAP regressors.</li>
+        <li><strong>Result:</strong> N-BEATS with regressors achieved the lowest MAE (1.25, 11% below the best baseline), with the top models within ~5% of each other. I used MAE/RMSE instead of MAPE because about 52% of sales were zeros.</li>
+      </ul>
+      <p><strong>Final Grade:</strong> 19.70/20</p>
     </li>
   </ul>
 
