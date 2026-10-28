@@ -35,7 +35,7 @@ business-analytics-portfolio/
       </ul>
       <p>
         <strong>Notebook:</strong>
-        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/python_notebook.ipynb" target="_blank" rel="noopener"><code>python_notebook.ipynb</code></a><br>
+        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/01-python-cli/python_notebook.ipynb" target="_blank" rel="noopener"><code>python_notebook.ipynb</code></a><br>
         <strong>Final Grade:</strong> 19.30/20
       </p>
     </li>
@@ -48,7 +48,7 @@ business-analytics-portfolio/
       </ul>
        <p>
         <strong>Links:</strong>
-        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/ade_mml_notebook.ipynb" target="_blank" rel="noopener"><code>ade_notebook.ipynb</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/ade_mml_powerbi.pbix" target="_blank" rel="noopener"><code>ade_mml_powerbi.pbix</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/ade_mml_report.pdf" target="_blank" rel="noopener"><code>ade_mml_report.pdf</code></a> <br>
+        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/02-ade-mml-bank-data/ade_mml_notebook.ipynb" target="_blank" rel="noopener"><code>ade_notebook.ipynb</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/02-ade-mml-bank-data/ade_mml_powerbi.pbix" target="_blank" rel="noopener"><code>ade_mml_powerbi.pbix</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/02-ade-mml-bank-data/ade_mml_report.pdf" target="_blank" rel="noopener"><code>ade_mml_report.pdf</code></a> <br>
         <strong>Final Grade:</strong> EDA 18.40/20 and MML 18.00/20
       </p>   
  
@@ -62,7 +62,7 @@ business-analytics-portfolio/
       </ul>
       <p>
         <strong>Notebook:</strong>
-        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/DLCV_notebook.ipynb" target="_blank" rel="noopener"><code>DLCV_notebook.ipynb</code></a><br>
+        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/03-deep-learning-cv/DLCV_notebook.ipynb" target="_blank" rel="noopener"><code>DLCV_notebook.ipynb</code></a><br>
         <strong>Final Grade:</strong> 20/20
       </p>
     </li>
@@ -76,7 +76,7 @@ business-analytics-portfolio/
       </ul>
       <p>
         <strong>Notebook:</strong>
-        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/nlp_notebook.ipynb" target="_blank" rel="noopener"><code>nlp_notebook.ipynb</code></a><br>
+        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/04-nlp-airline-sentiment/nlp_notebook.ipynb" target="_blank" rel="noopener"><code>nlp_notebook.ipynb</code></a><br>
         <strong>Final Grade:</strong> 20/20
       </p>
     </li>
@@ -90,7 +90,7 @@ business-analytics-portfolio/
       </ul>
       <p>
         <strong>Notebook:</strong>
-        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/time_series_forecasting_notebook.ipynb" target="_blank" rel="noopener"><code>time_series_forecasting_notebook.ipynb</code></a><br>
+        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/05-time-series-forecasting/time_series_forecasting_notebook.ipynb" target="_blank" rel="noopener"><code>time_series_forecasting_notebook.ipynb</code></a><br>
         <strong>Final Grade:</strong> 19.70/20
       </p>
     </li>
@@ -98,13 +98,13 @@ business-analytics-portfolio/
       <h3>☁️ Cloud Computing <small>(2025)</small></h3>
       <p>OLX Smartphone Price Estimator | Python, AWS (S3, SageMaker Pipelines, SageMaker Endpoint), XGBoost, Streamlit</p>
       <ul>
-        <li>Built an end-to-end automated ML pipeline on AWS: raw OLX smartphone listings stored in S3, then SageMaker Pipelines for feature engineering, XGBoost training, evaluation, model registration and deployment to a real-time SageMaker endpoint (<a href="https://github.com/neveso/business-analytics-portfolio/blob/main/cloud_computing_main.ipynb" target="_blank" rel="noopener"><code>cloud_computing_main.ipynb</code></a>) </li>
-        <li>Developed a Streamlit app that lets OLX users estimate their phone's price in real time, with a "How Does It Work?" section, a topic-based menu, helpful tips, a visual summary of the main features and an informative sidebar (<a href="https://github.com/neveso/business-analytics-portfolio/blob/main/could_computing_streamlit_app.py" target="_blank" rel="noopener"><code>cloud_computing_streamlit_app.py</code></a>) </li>
-        <li><strong>Result:</strong> the model reached 93% accuracy. See the <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/cloud_computing_presentation.pdf" target="_blank" rel="noopener"><code>cloud_computing_presentation.pdf</code></a> or <a href="https://canva.link/ed121ydgfhvt6xg" target="_blank" rel="noopener"> online presentation</a> and the <a href="https://youtu.be/3sJ4pJOlqEk" target="_blank" rel="noopener">demo here</a>.</li>
+        <li>Built an end-to-end automated ML pipeline on AWS: raw OLX smartphone listings stored in S3, then SageMaker Pipelines for feature engineering, XGBoost training, evaluation, model registration and deployment to a real-time SageMaker endpoint (<a href="https://github.com/neveso/business-analytics-portfolio/blob/main/06-cloud-computing-olx/cloud_computing_main.ipynb" target="_blank" rel="noopener"><code>cloud_computing_main.ipynb</code></a>) </li>
+        <li>Developed a Streamlit app that lets OLX users estimate their phone's price in real time, with a "How Does It Work?" section, a topic-based menu, helpful tips, a visual summary of the main features and an informative sidebar (<a href="https://github.com/neveso/business-analytics-portfolio/blob/main/06-cloud-computing-olx/cloud_computing_streamlit_app.py" target="_blank" rel="noopener"><code>cloud_computing_streamlit_app.py</code></a>) </li>
+        <li><strong>Result:</strong> the model reached 93% accuracy. See the <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/06-cloud-computing-olx/cloud_computing_presentation.pdf" target="_blank" rel="noopener"><code>cloud_computing_presentation.pdf</code></a> or <a href="https://canva.link/ed121ydgfhvt6xg" target="_blank" rel="noopener"> online presentation</a> and the <a href="https://youtu.be/3sJ4pJOlqEk" target="_blank" rel="noopener">demo here</a>.</li>
       </ul>
       <p>
         <strong>Links:</strong>
-        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/cloud_computing_main.ipynb" target="_blank" rel="noopener"><code>cloud_computing_main.ipynb</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/could_computing_streamlit_app.py" target="_blank" rel="noopener"><code>cloud_computing_streamlit_app.py</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/cloud_computing_presentation.pdf" target="_blank" rel="noopener"><code>cloud_computing_presentation.pdf</code></a> <br>
+        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/06-cloud-computing-olx/cloud_computing_main.ipynb" target="_blank" rel="noopener"><code>cloud_computing_main.ipynb</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/06-cloud-computing-olx/cloud_computing_streamlit_app.py" target="_blank" rel="noopener"><code>cloud_computing_streamlit_app.py</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/06-cloud-computing-olx/cloud_computing_presentation.pdf" target="_blank" rel="noopener"><code>cloud_computing_presentation.pdf</code></a> <br>
         <strong>Final Grade:</strong> 19.25/20
       </p>
     </li>
