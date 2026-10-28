@@ -11,12 +11,14 @@
 business-analytics-portfolio/
 ├── python_notebook.ipynb                    # grade: 19.30/20
 ├── eda_mml_notebook.ipynb                   # grade: EDA 18.40/20; MML 18.00/20
-├── eda_mmlpowerbi.pbix  
-├── eda_mml_report.pdf
+|   eda_mmlpowerbi.pbix  
+|   eda_mml_report.pdf
 ├── dl_notebook.ipynb                        # grade: 20/20
 ├── nlp_notebook.ipynb                       # grade: 20/20
 ├── time_series_forecasting_notebook.ipynb   # grade: 19.70/20
-├── cloud_computing                          # grade: 19.25/20
+├── cloud_computing_main.ipynb               # grade: 19.25/20
+|   cloud_computing_streamlit_app.ipynb    
+|   cloud_computing_presentation.pdf         
 └── portfolio_data_visualization.pdf
   </pre>
 
@@ -89,7 +91,11 @@ business-analytics-portfolio/
         <li>Built a binary image classifier for cats vs. dogs using convolutional neural networks.</li>
         <li>Constructed, trained and evaluated multiple architectures to identify the most accurate model.</li>
       </ul>
-      <p><strong>Final Grade:</strong> 20/20</p>
+      <p>
+        <strong>Notebook:</strong>
+        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/DLCV_notebook.ipynb" target="_blank" rel="noopener"><code>DLCV_notebook.ipynb</code></a><br>
+        <strong>Final Grade:</strong> 20/20
+      </p>
     </li>
     <li>
       <h3>💬 NLP Project <small>(2025)</small></h3>
@@ -99,7 +105,11 @@ business-analytics-portfolio/
         <li>Cleaned and prepared tweet data, with sentiment-distribution visualizations and feature engineering.</li>
         <li>Built and evaluated classification models to predict tweet sentiment.</li>
       </ul>
-      <p><strong>Final Grade:</strong> 20/20</p> 
+      <p>
+        <strong>Notebook:</strong>
+        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/nlp_notebook.ipynb" target="_blank" rel="noopener"><code>nlp_notebook.ipynb</code></a><br>
+        <strong>Final Grade:</strong> 20/20
+      </p>
     </li>
     <li>
       <h3>🕑 Time Series Forecasting <small>(2025)</small></h3>
@@ -123,7 +133,11 @@ business-analytics-portfolio/
         <li>Developed a Streamlit app that lets OLX users estimate their phone's price in real time, with a "How Does It Work?" section, a topic-based menu, helpful tips, a visual summary of the main features and an informative sidebar (<a href="https://github.com/neveso/business-analytics-portfolio/blob/main/could_computing_streamlit_app.py" target="_blank" rel="noopener"><code>cloud_computing_streamlit_app.py</code></a>) </li>
         <li><strong>Result:</strong> the model reached 93% accuracy. See the <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/cloud_computing_presentation.pdf" target="_blank" rel="noopener"><code>cloud_computing_presentation.pdf</code></a> or <a href="https://canva.link/ed121ydgfhvt6xg" target="_blank" rel="noopener"> online presentation</a> and the <a href="https://youtu.be/3sJ4pJOlqEk" target="_blank" rel="noopener">demo here</a>.</li>
       </ul>
-      <p><strong>Final Grade:</strong> 19.25/20</p>
+      <p>
+        <strong>Links:</strong>
+        <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/cloud_computing_main.ipynb" target="_blank" rel="noopener"><code>cloud_computing_main.ipynb</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/could_computing_streamlit_app.py" target="_blank" rel="noopener"><code>cloud_computing_streamlit_app.py</code></a> <a href="https://github.com/neveso/business-analytics-portfolio/blob/main/cloud_computing_presentation.pdf" target="_blank" rel="noopener"><code>cloud_computing_presentation.pdf</code></a> <br>
+        <strong>Final Grade:</strong> 19.25/20
+      </p>
     </li>
   </ul>
 
