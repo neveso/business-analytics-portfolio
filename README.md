@@ -133,39 +133,32 @@ business-analytics-portfolio/
     <thead>
       <tr>
         <th align="left">Project</th>
-        <th align="left">Year</th>
         <th align="left">What it shows</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><b>🤖 Deep Learning &amp; Computer Vision</b></td>
-        <td>2025</td>
+        <td><b>🤖 Deep Learning &amp; Computer Vision</b> <small>(2025)</small></td>
         <td>CNN classifiers for cats vs. dogs, with prediction visualizations, error analysis and comparative metrics.</td>
       </tr>
       <tr>
-        <td><b>💬 NLP: Twitter US Airline Sentiment</b></td>
-        <td>2025</td>
+        <td><b>💬 NLP: Twitter US Airline Sentiment</b> <small>(2025)</small></td>
         <td>Cleaning, analyzing and charting tweet sentiment distributions to inform customer-experience strategies.</td>
       </tr>
       <tr>
-        <td><b>📊 EDA &amp; ML (BANK_DATA)</b></td>
-        <td>2025</td>
+        <td><b>📊 EDA &amp; ML (BANK_DATA)</b> <small>(2025)</small></td>
         <td>Exploratory analysis and model results combined into interactive graphics and Power BI reports to uncover customer patterns.</td>
       </tr>
       <tr>
-        <td><b>📘 AI Cookbook</b></td>
-        <td>2024</td>
+        <td><b>📘 AI Cookbook</b> <small>(2024)</small></td>
         <td>Coordinated and designed a 48-page guide on AI techniques, with generative diagrams and GPT-powered insights.</td>
       </tr>
       <tr>
-        <td><b>📈 Pitch JUNIFEUP</b></td>
-        <td>2021–22</td>
+        <td><b>📈 Pitch JUNIFEUP</b> <small>(2021–22)</small></td>
         <td>Proposal decks highlighting KPIs, growth metrics and award-winning achievements.</td>
       </tr>
       <tr>
-        <td><b>⚽ UEFA Champions League (SQL)</b></td>
-        <td>2020</td>
+        <td><b>⚽ UEFA Champions League (SQL)</b> <small>(2020)</small></td>
         <td>Querying and visualizing match and performance data to reveal trends in Europe's top football competition.</td>
       </tr>
     </tbody>
