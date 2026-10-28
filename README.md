@@ -22,47 +22,6 @@ business-analytics-portfolio/
 └── portfolio_data_visualization.pdf
   </pre>
 
-  <section id="portfolio">
-    <h2>📊 Portfolio: Data Visualization</h2>
-    <p>
-      📄 <a href="0_Portfolio_Data_Visualization.pdf" target="_blank" rel="noopener">
-        Download Portfolio
-      </a>
-    </p>
-    <p>
-      A curated collection of projects that bring insights to life through clear, engaging stories. Each project shows how raw data can be transformed into compelling narratives, guiding decisions and sparking discoveries:
-    </p>
-    <ul>
-      <li>
-        <h3>🤖 Deep Learning &amp; Computer Vision <small>(2025)</small></h3>
-        Building CNN classifiers for cats vs. dogs, visualizing predictions, error analysis and comparative metrics.
-      </li>
-      <li>
-        <h3>💬 NLP: Twitter US Airline Sentiment <small>(2025)</small></h3>
-        Cleaning, analyzing and charting tweet sentiment distributions to inform customer-experience strategies.
-      </li>
-      <li>
-        <h3>📊 EDA &amp; ML (BANK_DATA) <small>(2025)</small></h3>
-        Combining exploratory analysis and model results into interactive graphics and Power BI reports to uncover customer patterns.
-      </li>
-      <li>
-        <h3>📘 AI Cookbook <small>(2024)</small></h3>
-        Coordinating and designing a 48-page guide on AI techniques, enriched with generative diagrams and GPT-powered insights.
-      </li>
-      <li>
-        <h3>📈 Pitch JUNIFEUP <small>(2021–22)</small></h3>
-        Designing proposal decks that highlight KPIs, growth metrics and award-winning achievements.
-      </li>
-      <li>
-        <h3>⚽ UEFA Champions League (SQL) <small>(2020)</small></h3>
-        Querying and visualizing match and performance data to reveal trends in Europe’s top football competition.
-      </li>
-    </ul>
-    <p class="note">
-      Whether you’re a recruiter, collaborator or fellow data enthusiast, explore the notebooks and reports to see how I use charts, dashboards and annotated visuals to tell data-driven stories.
-    </p>
-  </section>
-
  <section id="assignments">
   <h2>📝 Notebooks &amp; College Assignments</h2>
   <ul>
@@ -154,4 +113,65 @@ business-analytics-portfolio/
     Feel free to open an issue or reach out at <a href="mailto:barbarapneveso@gmail.com">barbarapneveso@gmail.com</a>.<br>
     This portfolio highlights my journey through key Business Analytics courses, blending technical skills with storytelling and visual design.
   </p>
+</section>
+
+
+<section id="portfolio">
+  <h2>📊 Portfolio: Data Visualization</h2>
+
+  <p>
+    <a href="0_Portfolio_Data_Visualization.pdf" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/📄_Download-Portfolio_PDF-2563eb?style=for-the-badge" alt="Download Portfolio PDF">
+    </a>
+  </p>
+
+  <p>
+    A curated collection of projects that turn raw data into clear, engaging stories, guiding decisions and sparking discoveries.
+  </p>
+
+  <table>
+    <thead>
+      <tr>
+        <th align="left">Project</th>
+        <th align="left">Year</th>
+        <th align="left">What it shows</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>🤖 Deep Learning &amp; Computer Vision</b></td>
+        <td>2025</td>
+        <td>CNN classifiers for cats vs. dogs, with prediction visualizations, error analysis and comparative metrics.</td>
+      </tr>
+      <tr>
+        <td><b>💬 NLP: Twitter US Airline Sentiment</b></td>
+        <td>2025</td>
+        <td>Cleaning, analyzing and charting tweet sentiment distributions to inform customer-experience strategies.</td>
+      </tr>
+      <tr>
+        <td><b>📊 EDA &amp; ML (BANK_DATA)</b></td>
+        <td>2025</td>
+        <td>Exploratory analysis and model results combined into interactive graphics and Power BI reports to uncover customer patterns.</td>
+      </tr>
+      <tr>
+        <td><b>📘 AI Cookbook</b></td>
+        <td>2024</td>
+        <td>Coordinated and designed a 48-page guide on AI techniques, with generative diagrams and GPT-powered insights.</td>
+      </tr>
+      <tr>
+        <td><b>📈 Pitch JUNIFEUP</b></td>
+        <td>2021–22</td>
+        <td>Proposal decks highlighting KPIs, growth metrics and award-winning achievements.</td>
+      </tr>
+      <tr>
+        <td><b>⚽ UEFA Champions League (SQL)</b></td>
+        <td>2020</td>
+        <td>Querying and visualizing match and performance data to reveal trends in Europe's top football competition.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <blockquote>
+    Whether you're a recruiter, collaborator or fellow data enthusiast, explore the notebooks and reports to see how I use charts, dashboards and annotated visuals.
+  </blockquote>
 </section>
